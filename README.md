@@ -1,2 +1,2 @@
-# AEDs-Primeiro-Periodo
-Matéria do Primeiro Periodo, aqui contém todos os exercícios do começo da faculdade
+# Exercícios de Programação
+Exercícios de Progamação práticos feito por mim, durante a matéria de AED 1 (Primeiro Periodo) e AED 2 (Segundo Periodo)
