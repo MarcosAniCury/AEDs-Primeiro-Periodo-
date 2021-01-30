@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574287504 source:c:\users\marcos\desktop\faculdade\aed 1\lista26\lista26ex\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+//Verificar se o destino da biblioteca esta correto
+//A resposta da um e a=2 e  b=5
+
+
+void valreal()//7
+void apresentacao();
+
+int main()
+{
+    float A,B,a,b;
+    apresentacao();
+    A = valreal(&a);
+    B = valreal();
+    maiorentre2f(A,B);
+    return 0;
+}
+
+void apresentacao()
+{
+    printf("\n Algoritmo para calcular o maior valor entre dois valores reais.");
+}
+
+void valreal(float *a)//7
+{
+    printf("\n Digite um valor:");
+    scanf("%f", *a);
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571856239 source:c:\users\marcos\desktop\faculdade\aed 1\lista 20\lista20ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

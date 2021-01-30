@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567951155 source:c:\users\marcos\desktop\faculdade\aed 1\lista7\lista7ex7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

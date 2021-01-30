@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568062252 source:c:\users\marcos\desktop\faculdade\aed 1\lista7\lista8ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569424650 source:d:\faculdade\aed 1\lista 12\lista12ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"D:\faculdade\AED 1\Bibliotecas\funcoesmarcos.h"
+
+1569424788 d:\faculdade\aed 1\bibliotecas\funcoesmarcos.h
+
